@@ -36,10 +36,10 @@ endif()
 ###################################
 ## catkin specific configuration ##
 ###################################
-catkin_package(
-  INCLUDE_DIRS include
-  LIBRARIES ndt_omp
-)
+# catkin_package(
+#   INCLUDE_DIRS include
+#   LIBRARIES ndt_omp
+# )
 
 ###########
 ## Build ##
